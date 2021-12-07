@@ -25,6 +25,7 @@ THEN the saved events persist
 -git hub repo <https://github.com/Bertokeys1/Day-Planner>
 -live page <https://bertokeys1.github.io/Day-Planner/>
 
+-
 
-![img](screenshot.png)
+![img](Screenshot.png)
 ![img](Screenshot2.png)
