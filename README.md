@@ -1,6 +1,8 @@
 # Day-Planner
 Plan your busy day with my *Day-Planner* app!
 
+below is a description of what the app does!
+
 HW
 ## Acceptance Criteria
 
@@ -20,3 +22,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+-git hub repo <https://github.com/Bertokeys1/Day-Planner>
+-live page <https://bertokeys1.github.io/Day-Planner/>
+
+![img](screenshot.png)
+![img](Screenshot2.png)
